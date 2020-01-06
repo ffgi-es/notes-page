@@ -9,6 +9,10 @@ I can create a new note.
 As a programmer
 So I can find the one I want
 I can see a list of my notes
+
+As a programmer
+So I can have a nice frontend
+I want to convert my notelist into html.
 ```
 
 ## Running the tests
