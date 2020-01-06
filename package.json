@@ -1,0 +1,26 @@
+{
+  "name": "notes-page",
+  "version": "1.0.0",
+  "description": "## User stories ``` As a programmer So I can record something I need to remember I can create a new note.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "http-server": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffgi-es/notes-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffgi-es/notes-page/issues"
+  },
+  "homepage": "https://github.com/ffgi-es/notes-page#readme"
+}
